@@ -32,4 +32,6 @@
 10. Template Method
 11. Visitor
 
-These categories represent common classifications for design patterns based on their primary purpose and usage. Each pattern within a category has a distinct role and intent in software design. 
+These categories represent common classifications for design patterns based on
+their primary purpose and usage. Each pattern within a category has a distinct
+role and intent in software design. 
